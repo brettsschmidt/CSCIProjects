@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{09B6A8D4-2568-4BCC-A4B0-7431B395DADA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CSCI234_Project_Schmidt</RootNamespace>
+    <AssemblyName>CSCI234_Project_Schmidt</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="exerciseToolStrip">
+      <HintPath>..\..\exerciseToolStrip\exerciseToolStrip\bin\Debug\exerciseToolStrip.dll</HintPath>
+    </Reference>
+    <Reference Include="Exercise_UserControl">
+      <HintPath>..\..\Exercise_UserControl\Exercise_UserControl\bin\Debug\Exercise_UserControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Exercise.cs" />
+    <Compile Include="FitnessTieDB.cs" />
+    <Compile Include="FitnessTieUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FitnessTieUI.Designer.cs">
+      <DependentUpon>FitnessTieUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FitnessTieUI2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FitnessTieUI2.Designer.cs">
+      <DependentUpon>FitnessTieUI2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewExerciseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewExerciseForm.Designer.cs">
+      <DependentUpon>NewExerciseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="STB001_TRAINER_COMPATIBLEDataSet.cs">
+      <DependentUpon>STB001_TRAINER_COMPATIBLEDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="STB001_TRAINER_COMPATIBLEDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>STB001_TRAINER_COMPATIBLEDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FitnessTieUI.resx">
+      <DependentUpon>FitnessTieUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FitnessTieUI2.resx">
+      <DependentUpon>FitnessTieUI2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewExerciseForm.resx">
+      <DependentUpon>NewExerciseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="STB001_TRAINER_COMPATIBLEDataSet.xsc">
+      <DependentUpon>STB001_TRAINER_COMPATIBLEDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="STB001_TRAINER_COMPATIBLEDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>STB001_TRAINER_COMPATIBLEDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="STB001_TRAINER_COMPATIBLEDataSet.xss">
+      <DependentUpon>STB001_TRAINER_COMPATIBLEDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SVA Logo.jpg" />
+    <None Include="Resources\BrettsPaintForm.PNG" />
+    <None Include="Resources\Nightman.jpg" />
+    <Content Include="STB001_TRAINER_COMPATIBLE.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

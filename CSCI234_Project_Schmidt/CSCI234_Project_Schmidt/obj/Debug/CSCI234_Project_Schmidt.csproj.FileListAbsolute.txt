@@ -1,0 +1,16 @@
+c:\users\brett\documents\visual studio 2015\Projects\CSCI234_Project_Schmidt\CSCI234_Project_Schmidt\bin\Debug\CSCI234_Project_Schmidt.exe.config
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI234_Project_Schmidt\CSCI234_Project_Schmidt\bin\Debug\CSCI234_Project_Schmidt.exe
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI234_Project_Schmidt\CSCI234_Project_Schmidt\bin\Debug\CSCI234_Project_Schmidt.pdb
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI234_Project_Schmidt\CSCI234_Project_Schmidt\bin\Debug\exerciseToolStrip.dll
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI234_Project_Schmidt\CSCI234_Project_Schmidt\bin\Debug\Exercise_UserControl.dll
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI234_Project_Schmidt\CSCI234_Project_Schmidt\bin\Debug\exerciseToolStrip.pdb
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI234_Project_Schmidt\CSCI234_Project_Schmidt\bin\Debug\Exercise_UserControl.pdb
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI234_Project_Schmidt\CSCI234_Project_Schmidt\obj\Debug\CSCI234_Project_Schmidt.csprojResolveAssemblyReference.cache
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI234_Project_Schmidt\CSCI234_Project_Schmidt\obj\Debug\CSCI234_Project_Schmidt.FitnessTieUI.resources
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI234_Project_Schmidt\CSCI234_Project_Schmidt\obj\Debug\CSCI234_Project_Schmidt.Properties.Resources.resources
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI234_Project_Schmidt\CSCI234_Project_Schmidt\obj\Debug\CSCI234_Project_Schmidt.csproj.GenerateResource.Cache
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI234_Project_Schmidt\CSCI234_Project_Schmidt\obj\Debug\CSCI234_Project_Schmidt.exe
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI234_Project_Schmidt\CSCI234_Project_Schmidt\obj\Debug\CSCI234_Project_Schmidt.pdb
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI234_Project_Schmidt\CSCI234_Project_Schmidt\bin\Debug\STB001_TRAINER_COMPATIBLE.mdb
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI234_Project_Schmidt\CSCI234_Project_Schmidt\obj\Debug\CSCI234_Project_Schmidt.FitnessTieUI2.resources
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI234_Project_Schmidt\CSCI234_Project_Schmidt\obj\Debug\CSCI234_Project_Schmidt.NewExerciseForm.resources
