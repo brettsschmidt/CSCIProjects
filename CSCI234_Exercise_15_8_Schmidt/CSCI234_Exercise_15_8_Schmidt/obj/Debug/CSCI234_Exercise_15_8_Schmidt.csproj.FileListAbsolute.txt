@@ -1,0 +1,10 @@
+c:\users\brett\documents\visual studio 2015\Projects\CSCI234_Exercise_15_8_Schmidt\CSCI234_Exercise_15_8_Schmidt\bin\Debug\CSCI234_Exercise_15_8_Schmidt.exe.config
+c:\users\brett\documents\visual studio 2015\Projects\CSCI234_Exercise_15_8_Schmidt\CSCI234_Exercise_15_8_Schmidt\bin\Debug\CSCI234_Exercise_15_8_Schmidt.exe
+c:\users\brett\documents\visual studio 2015\Projects\CSCI234_Exercise_15_8_Schmidt\CSCI234_Exercise_15_8_Schmidt\bin\Debug\CSCI234_Exercise_15_8_Schmidt.pdb
+c:\users\brett\documents\visual studio 2015\Projects\CSCI234_Exercise_15_8_Schmidt\CSCI234_Exercise_15_8_Schmidt\obj\Debug\CSCI234_Exercise_15_8_Schmidt.csprojResolveAssemblyReference.cache
+c:\users\brett\documents\visual studio 2015\Projects\CSCI234_Exercise_15_8_Schmidt\CSCI234_Exercise_15_8_Schmidt\obj\Debug\CSCI234_Exercise_15_8_Schmidt.Form1.resources
+c:\users\brett\documents\visual studio 2015\Projects\CSCI234_Exercise_15_8_Schmidt\CSCI234_Exercise_15_8_Schmidt\obj\Debug\CSCI234_Exercise_15_8_Schmidt.Properties.Resources.resources
+c:\users\brett\documents\visual studio 2015\Projects\CSCI234_Exercise_15_8_Schmidt\CSCI234_Exercise_15_8_Schmidt\obj\Debug\CSCI234_Exercise_15_8_Schmidt.csproj.GenerateResource.Cache
+c:\users\brett\documents\visual studio 2015\Projects\CSCI234_Exercise_15_8_Schmidt\CSCI234_Exercise_15_8_Schmidt\obj\Debug\CSCI234_Exercise_15_8_Schmidt.exe
+c:\users\brett\documents\visual studio 2015\Projects\CSCI234_Exercise_15_8_Schmidt\CSCI234_Exercise_15_8_Schmidt\obj\Debug\CSCI234_Exercise_15_8_Schmidt.pdb
+c:\users\brett\documents\visual studio 2015\Projects\CSCI234_Exercise_15_8_Schmidt\CSCI234_Exercise_15_8_Schmidt\obj\Debug\CSCI234_Exercise_15_8_Schmidt.LoginPasswordUserControl.resources
