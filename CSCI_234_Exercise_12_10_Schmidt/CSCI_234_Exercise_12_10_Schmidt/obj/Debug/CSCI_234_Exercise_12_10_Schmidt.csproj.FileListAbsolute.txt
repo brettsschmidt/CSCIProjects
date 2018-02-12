@@ -1,0 +1,6 @@
+c:\users\brett\documents\visual studio 2015\Projects\CSCI_234_Exercise_12_10_Schmidt\CSCI_234_Exercise_12_10_Schmidt\bin\Debug\CSCI_234_Exercise_12_10_Schmidt.exe.config
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI_234_Exercise_12_10_Schmidt\CSCI_234_Exercise_12_10_Schmidt\bin\Debug\CSCI_234_Exercise_12_10_Schmidt.exe
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI_234_Exercise_12_10_Schmidt\CSCI_234_Exercise_12_10_Schmidt\bin\Debug\CSCI_234_Exercise_12_10_Schmidt.pdb
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI_234_Exercise_12_10_Schmidt\CSCI_234_Exercise_12_10_Schmidt\obj\Debug\CSCI_234_Exercise_12_10_Schmidt.csprojResolveAssemblyReference.cache
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI_234_Exercise_12_10_Schmidt\CSCI_234_Exercise_12_10_Schmidt\obj\Debug\CSCI_234_Exercise_12_10_Schmidt.exe
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI_234_Exercise_12_10_Schmidt\CSCI_234_Exercise_12_10_Schmidt\obj\Debug\CSCI_234_Exercise_12_10_Schmidt.pdb
