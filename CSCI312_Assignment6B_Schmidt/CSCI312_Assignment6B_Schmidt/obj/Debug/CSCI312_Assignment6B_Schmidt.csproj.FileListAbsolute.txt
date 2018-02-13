@@ -1,0 +1,6 @@
+c:\users\brett\documents\visual studio 2015\Projects\CSCI312_Assignment6B_Schmidt\CSCI312_Assignment6B_Schmidt\bin\Debug\CSCI312_Assignment6B_Schmidt.exe.config
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI312_Assignment6B_Schmidt\CSCI312_Assignment6B_Schmidt\bin\Debug\CSCI312_Assignment6B_Schmidt.exe
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI312_Assignment6B_Schmidt\CSCI312_Assignment6B_Schmidt\bin\Debug\CSCI312_Assignment6B_Schmidt.pdb
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI312_Assignment6B_Schmidt\CSCI312_Assignment6B_Schmidt\obj\Debug\CSCI312_Assignment6B_Schmidt.csprojResolveAssemblyReference.cache
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI312_Assignment6B_Schmidt\CSCI312_Assignment6B_Schmidt\obj\Debug\CSCI312_Assignment6B_Schmidt.exe
+C:\Users\brett\documents\visual studio 2015\Projects\CSCI312_Assignment6B_Schmidt\CSCI312_Assignment6B_Schmidt\obj\Debug\CSCI312_Assignment6B_Schmidt.pdb
