@@ -1,0 +1,6 @@
+c:\users\brett\documents\visual studio 2015\Projects\CSCI312_A1_Schmidt\CSCI312_A1_Schmidt\bin\Debug\CSCI312_A1_Schmidt.exe.config
+c:\users\brett\documents\visual studio 2015\Projects\CSCI312_A1_Schmidt\CSCI312_A1_Schmidt\bin\Debug\CSCI312_A1_Schmidt.exe
+c:\users\brett\documents\visual studio 2015\Projects\CSCI312_A1_Schmidt\CSCI312_A1_Schmidt\bin\Debug\CSCI312_A1_Schmidt.pdb
+c:\users\brett\documents\visual studio 2015\Projects\CSCI312_A1_Schmidt\CSCI312_A1_Schmidt\obj\Debug\CSCI312_A1_Schmidt.csprojResolveAssemblyReference.cache
+c:\users\brett\documents\visual studio 2015\Projects\CSCI312_A1_Schmidt\CSCI312_A1_Schmidt\obj\Debug\CSCI312_A1_Schmidt.exe
+c:\users\brett\documents\visual studio 2015\Projects\CSCI312_A1_Schmidt\CSCI312_A1_Schmidt\obj\Debug\CSCI312_A1_Schmidt.pdb
