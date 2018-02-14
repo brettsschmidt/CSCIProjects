@@ -1,0 +1,7 @@
+c:\users\brett\documents\visual studio 2015\Projects\exerciseToolStrip\exerciseToolStrip\bin\Debug\exerciseToolStrip.dll
+c:\users\brett\documents\visual studio 2015\Projects\exerciseToolStrip\exerciseToolStrip\bin\Debug\exerciseToolStrip.pdb
+c:\users\brett\documents\visual studio 2015\Projects\exerciseToolStrip\exerciseToolStrip\obj\Debug\exerciseToolStrip.csprojResolveAssemblyReference.cache
+c:\users\brett\documents\visual studio 2015\Projects\exerciseToolStrip\exerciseToolStrip\obj\Debug\exerciseToolStrip.exerciseToolStrip.resources
+c:\users\brett\documents\visual studio 2015\Projects\exerciseToolStrip\exerciseToolStrip\obj\Debug\exerciseToolStrip.csproj.GenerateResource.Cache
+c:\users\brett\documents\visual studio 2015\Projects\exerciseToolStrip\exerciseToolStrip\obj\Debug\exerciseToolStrip.dll
+c:\users\brett\documents\visual studio 2015\Projects\exerciseToolStrip\exerciseToolStrip\obj\Debug\exerciseToolStrip.pdb

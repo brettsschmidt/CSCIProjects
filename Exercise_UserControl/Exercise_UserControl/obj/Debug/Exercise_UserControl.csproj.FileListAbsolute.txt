@@ -1,0 +1,7 @@
+c:\users\brett\documents\visual studio 2015\Projects\Exercise_UserControl\Exercise_UserControl\bin\Debug\Exercise_UserControl.dll
+c:\users\brett\documents\visual studio 2015\Projects\Exercise_UserControl\Exercise_UserControl\bin\Debug\Exercise_UserControl.pdb
+c:\users\brett\documents\visual studio 2015\Projects\Exercise_UserControl\Exercise_UserControl\obj\Debug\Exercise_UserControl.csprojResolveAssemblyReference.cache
+c:\users\brett\documents\visual studio 2015\Projects\Exercise_UserControl\Exercise_UserControl\obj\Debug\Exercise_UserControl.ExerciseUserControl.resources
+c:\users\brett\documents\visual studio 2015\Projects\Exercise_UserControl\Exercise_UserControl\obj\Debug\Exercise_UserControl.csproj.GenerateResource.Cache
+c:\users\brett\documents\visual studio 2015\Projects\Exercise_UserControl\Exercise_UserControl\obj\Debug\Exercise_UserControl.dll
+c:\users\brett\documents\visual studio 2015\Projects\Exercise_UserControl\Exercise_UserControl\obj\Debug\Exercise_UserControl.pdb
